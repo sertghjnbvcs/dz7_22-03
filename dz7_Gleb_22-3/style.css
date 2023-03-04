@@ -1,0 +1,17 @@
+.container{
+    width: 1000px;
+    margin: 20px auto;
+}
+.inner_block{
+    width: 100%;
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+.block_content{
+    width: 60%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
